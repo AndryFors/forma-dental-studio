@@ -33,4 +33,3 @@ npm run dev
 - [`interior.webp`](https://unsplash.com/photos/modern-minimalist-interior-with-white-curved-benches-kta51xgQWfI) — SHIBUN RYO; это общественный интерьер, он не выдается за интерьер клиники.
 
 Шрифты [Prata](https://fonts.google.com/specimen/Prata), [Manrope](https://fonts.google.com/specimen/Manrope) и [DM Sans](https://fonts.google.com/specimen/DM+Sans) загружаются из Google Fonts с системными запасными шрифтами.
-
